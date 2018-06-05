@@ -13,5 +13,5 @@ $ cd demo
 ```
 ### Start docker container.
 ```
-docker-compose up
+$ docker-compose up
 ```
